@@ -26,6 +26,10 @@ step <number_small> times:
 
 nope: edit.undo()    
 
+next: key(tab)
+
+previous: key(shift-tab)
+
 # north:
 #     user.up_n(1)
 
