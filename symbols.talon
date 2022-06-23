@@ -1,5 +1,5 @@
 spam: ", "
-assign: " := "
+
 quad: "\""
 
 clap: key(enter)

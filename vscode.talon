@@ -1,6 +1,12 @@
 app: vscode
 -
 
+file show folder: user.vscode("revealFileInOS")
+file open folder: user.vscode("vscode.openFolder")
+folder open:             user.vscode("workbench.action.files.openFolder")
+folder add:              user.vscode("workbench.action.addRootFolder")
+folder new:              user.vscode("explorer.newFolder")
+
 tug:
     edit.left()
 
